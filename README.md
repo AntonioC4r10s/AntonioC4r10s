@@ -1,4 +1,4 @@
-## Olá! Sou o Antônio Carlos... 👋
+## Olá! Sou o Antônio Carlos... 👋 
 
 - 🔭 Estou atualmente trabalhando com Fuzzy na area climática.
 - 🌱 Estou estudando python para microcontroladores.
