@@ -6,7 +6,7 @@ Sou um profissional apaixonado por tecnologia, com foco em **Dados**. Como **Eng
 
 ## Habilidades Técnicas 🛠️
 
-- **Linguagens:** Python, C++, MATLAB, VHDL
+- **Linguagens:** Python, C, C++, MATLAB, Java, JS
 - **Bancos de Dados:** SQL, SQL Server, PostgreSQL, Tembo, DuckDB
 - **Engenharia de Dados:** Apache Airflow, Spark, DBT, ETL, Modelagem de Dados
 - **Cloud:** AWS, Google Cloud
