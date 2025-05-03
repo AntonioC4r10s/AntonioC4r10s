@@ -2,7 +2,7 @@
 
 ## Sobre Mim ✨
 
-Sou um profissional apaixonado por tecnologia, com foco em **Dados**. Como **Engenheiro de Dados**, possuo experiência na construção e otimização de pipelines, modelagem e análise de dados para gerar insights. Minha formação em **Engenharia da Computação** e meu mestrado em **Computação Aplicada** (ênfase em Inteligência Computacional) me proporcionam uma base sólida para enfrentar desafios complexos na área de dados.
+Sou apaixonado por tecnologia e movido por desafios que envolvem dados. Com formação em Engenharia da Computação e mestrado em andamento em Computação Aplicada, venho desenvolvendo habilidades em engenharia, modelagem e análise de dados, sempre buscando transformar informação em valor.
 
 ## Habilidades Técnicas 🛠️
 
